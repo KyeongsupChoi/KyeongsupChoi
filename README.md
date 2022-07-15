@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">👋Hey, I'm K</h1>
+<h3 align="center">A Python Developer living in South Korea, Changwon</h3>
 
-<!--
-**KyeongsupChoi/KyeongsupChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Ask me about the Data Science
 
-Here are some ideas to get you started:
+- 💼 Check out my [portfolio!](https://KyeongsupChoi.github.io)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Email me at [kyeongsupchoi@gmail.com](mailto:kyeongsupchoi@gmail.com)
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kyeongsup-choi/" target="blank">Linkedin</a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/KyeongsupChoi/">Github</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:kyeongsupchoi@gmail.com">Email</a>
+</p>
