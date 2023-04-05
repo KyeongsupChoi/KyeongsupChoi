@@ -10,5 +10,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kyeongsup-choi/" target="blank">Linkedin</a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/KyeongsupChoi/">Github</a>&nbsp;&nbsp;&nbsp;
+<a href="https://kaggle.com/kyeongsupchoi/">Kaggle</a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:kyeongsupchoi@gmail.com">Email</a>
 </p>
