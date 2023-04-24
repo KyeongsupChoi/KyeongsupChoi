@@ -1,15 +1,15 @@
 <h1 align="center">👋Hey, I'm K</h1>
 <h3 align="center">A Python Developer living in South Korea, Changwon</h3>
 
-### 📩 Contact me: 
+### Contact me: 
 
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kyeongsupchoi)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyeongsup-choi/)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:kyeongsupchoi@gmail.com")
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 
-### 💬 My main interests are / 🌱 I’m currently learning:
+### I'm specialized in these fields:
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-teal?style=for-the-badge)](#) 
-[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-black?style=for-the-badge)](#)
+[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-grey?style=for-the-badge)](#)
 [![Data science](https://img.shields.io/badge/-Data%20science-green?style=for-the-badge)](#) 
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-crimson?style=for-the-badge)](#) 
 [![Data visualization](https://img.shields.io/badge/-Data%20visualization-turquoise?style=for-the-badge)](#)
@@ -23,7 +23,7 @@
 ### Main Libraries and Frameworks
 [![TF](https://img.shields.io/badge/TensorFlow-FFA800?style=for-the-badge&logo=tensorflow&logoColor=white)](#) 
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
-[![matplotlib](https://img.shields.io/badge/matplotlib-%23DDC359.svg?&style=for-the-badge&logoColor=white)](#) 
+[![matplotlib](https://img.shields.io/badge/matplotlib-purple?&style=for-the-badge&logoColor=white)](#) 
 [![pyplot](https://img.shields.io/badge/pyplot-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/pandas-E70488?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![Seaborn](https://img.shields.io/badge/seaborn-565c89.svg?&style=for-the-badge)](#)
