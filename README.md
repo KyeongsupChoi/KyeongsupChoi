@@ -32,8 +32,8 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![fastapi](https://img.shields.io/badge/fastapi-05998b.svg?&style=for-the-badge&logo=fastapi&logoColor=white)](#)   
 
+### Resume
 
 ### Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kyeongsupchoi&count_private=true&theme=tokyonight&showicons=true)]()
 ![kyeongsup's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyeongsupchoi&theme=tokyonight&hide_border=false)
 ![kyeongsup's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongsupchoi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
