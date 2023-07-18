@@ -1,6 +1,9 @@
 <h1 align="center">👋Hey, I'm K</h1>
 <h3 align="center">A Python Developer living in South Korea, Changwon</h3>
 
+### 개발자 포트폴리오
+[![](https://img.shields.io/badge/개발-20BEFF?style=for-the-badge&logo=개발&logoColor=white)](https://www.kaggle.com/kyeongsupchoi)
+
 ### Contact me: 
 
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kyeongsupchoi)
