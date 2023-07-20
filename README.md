@@ -26,7 +26,7 @@
 [![TF](https://img.shields.io/badge/TensorFlow-FFA800?style=for-the-badge&logo=tensorflow&logoColor=white)](#) 
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![matplotlib](https://img.shields.io/badge/matplotlib-purple?&style=for-the-badge&logoColor=white)](#) 
-[![pyplot](https://img.shields.io/badge/pyplot-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
+[![plotly](https://img.shields.io/badge/plotly-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/pandas-E70488?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![Seaborn](https://img.shields.io/badge/seaborn-565c89.svg?&style=for-the-badge)](#)
 
