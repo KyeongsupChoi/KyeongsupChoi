@@ -10,10 +10,10 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 
 ### I'm specialized in these fields:
-[![AI](https://img.shields.io/badge/-AI-violet?style=for-the-badge)](#) -
+[![AI](https://img.shields.io/badge/-AI-maroon?style=for-the-badge)](#) _
 [![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-teal?style=for-the-badge)](#) 
 [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-grey?style=for-the-badge)](#) <br/>
-[![Data science](https://img.shields.io/badge/-Data%20science-green?style=for-the-badge)](#) -
+[![Data science](https://img.shields.io/badge/-Data%20science-green?style=for-the-badge)](#) _
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-crimson?style=for-the-badge)](#) 
 [![Data visualization](https://img.shields.io/badge/-Data%20visualization-turquoise?style=for-the-badge)](#)
 
