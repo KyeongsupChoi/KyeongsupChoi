@@ -6,27 +6,25 @@
 
 ### Contact me: 
 
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kyeongsupchoi)
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/kyeongsupchoi)⁷
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyeongsup-choi/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 [![](https://img.shields.io/badge/Blog-804000?style=for-the-badge&logo=Blog&logoColor=white)](https://kyeongsupchoi.github.io)
 
 ### I'm specialized in these fields:
-[![AI](https://img.shields.io/badge/-AI-maroon?style=for-the-badge)](#) _
-[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-grey?style=for-the-badge)](#) <br/>
+[![AI](https://img.shields.io/badge/-AI-maroon?style=for-the-badge)](#)
+[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-grey?style=for-the-badge)](#) 
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-crimson?style=for-the-badge)](#) 
 [![Data visualization](https://img.shields.io/badge/-Data%20visualization-turquoise?style=for-the-badge)](#)
 
 ### Programming Languages
 
 [![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=for-the-badge)](#)
-[![SQL](https://img.shields.io/badge/SQL-yellow?&style=for-the-badge)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
 ### Main Libraries and Frameworks
 [![TF](https://img.shields.io/badge/TensorFlow-FFA800?style=for-the-badge&logo=tensorflow&logoColor=white)](#) 
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
-[![matplotlib](https://img.shields.io/badge/matplotlib-purple?&style=for-the-badge&logoColor=white)](#) 
 [![plotly](https://img.shields.io/badge/plotly-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/pandas-E70488?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![Seaborn](https://img.shields.io/badge/seaborn-565c89.svg?&style=for-the-badge)](#)
