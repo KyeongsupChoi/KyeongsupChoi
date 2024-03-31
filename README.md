@@ -33,8 +33,8 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![fastapi](https://img.shields.io/badge/fastapi-05998b.svg?&style=for-the-badge&logo=fastapi&logoColor=white)](#)   
 
-[![streamlit](https://img.shields.io/badge/streamlit-%2304E18.svg?&style=for-the-badge&logo=streamlit&logoColor=white)](#)
-[![cookiecutter](https://img.shields.io/badge/cookiecutter-%3086E88.svg?&style=for-the-badge&logo=cookiecutter&logoColor=white)](#)
+[![streamlit](https://img.shields.io/badge/streamlit-%f63366.svg?&style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![cookiecutter](https://img.shields.io/badge/cookiecutter-%f4e49e.svg?&style=for-the-badge&logo=cookiecutter&logoColor=white)](#)
 
 ### Stats
 ![kyeongsup's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyeongsupchoi&theme=tokyonight&hide_border=false)
