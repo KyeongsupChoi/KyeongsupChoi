@@ -34,7 +34,7 @@
 [![fastapi](https://img.shields.io/badge/fastapi-05998b.svg?&style=for-the-badge&logo=fastapi&logoColor=white)](#)   
 
 [![streamlit](https://img.shields.io/badge/streamlit-%2304E18.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
-[![cookicutter](https://img.shields.io/badge/cookicutter-%3086E88.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
+[![cookiecutter](https://img.shields.io/badge/cookiecutter-%3086E88.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
 
 ### Stats
 ![kyeongsup's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyeongsupchoi&theme=tokyonight&hide_border=false)
