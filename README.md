@@ -15,7 +15,7 @@
 [![AI](https://img.shields.io/badge/-AI-maroon?style=for-the-badge)](#)
 [![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-grey?style=for-the-badge)](#) 
 [![Data analysis](https://img.shields.io/badge/-Data%20analysis-crimson?style=for-the-badge)](#) 
-[![Data visualization](https://img.shields.io/badge/-Data%20visualization-FAA309?style=for-the-badge)](#)
+[![Data visualization](https://img.shields.io/badge/-Data%20visualization-DAA309?style=for-the-badge)](#)
 
 ### Programming Languages
 
