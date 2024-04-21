@@ -11,12 +11,6 @@
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("https://kyeongsupchoi@gmail.com")
 [![](https://img.shields.io/badge/Blog-685B79?style=for-the-badge&logo=Blog&logoColor=white)](https://kyeongsupchoi.github.io)
 
-### I'm specialized in these fields:
-[![AI](https://img.shields.io/badge/-AI-maroon?style=for-the-badge)](#)
-[![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-grey?style=for-the-badge)](#) 
-[![Data analysis](https://img.shields.io/badge/-Data%20analysis-crimson?style=for-the-badge)](#) 
-[![Data visualization](https://img.shields.io/badge/-Data%20visualization-DAA309?style=for-the-badge)](#)
-
 ### Programming Languages
 
 [![Python](https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white&style=for-the-badge)](#)
