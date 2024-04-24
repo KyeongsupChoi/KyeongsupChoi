@@ -21,7 +21,6 @@
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![plotly](https://img.shields.io/badge/plotly-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/pandas-E70488?&style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![Seaborn](https://img.shields.io/badge/seaborn-565c89.svg?&style=for-the-badge)](#)
 
 [![Flask](https://img.shields.io/badge/Flask-crimson?style=for-the-badge&logo=flask&logoColor=white)](#) 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
