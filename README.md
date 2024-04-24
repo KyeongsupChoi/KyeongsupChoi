@@ -25,8 +25,8 @@
 [![plotly](https://img.shields.io/badge/plotly-%23026E38.svg?&style=for-the-badge&logo=plotly&logoColor=white)](#)
 [![streamlit](https://img.shields.io/badge/streamlit-f63366.svg?&style=for-the-badge&logo=streamlit&logoColor=white)](#)
 
-[![Flask](https://img.shields.io/badge/Flask-crimson?style=for-the-badge&logo=flask&logoColor=white)](#) 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-crimson?style=for-the-badge&logo=flask&logoColor=white)](#) 
 [![fastapi](https://img.shields.io/badge/fastapi-05998b.svg?&style=for-the-badge&logo=fastapi&logoColor=white)](#)   
 
 [![cookiecutter](https://img.shields.io/badge/cookiecutter-DCAF18?&style=for-the-badge&logo=cookiecutter&logoColor=white)](#)
