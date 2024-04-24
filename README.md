@@ -19,7 +19,7 @@
 ### Main Libraries and Frameworks
 [![TF](https://img.shields.io/badge/TensorFlow-FFA800?style=for-the-badge&logo=tensorflow&logoColor=white)](#) 
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
-[![plotly](https://img.shields.io/badge/plotly-%23026E38.svg?&style=for-the-badge&logo=plotr&logoColor=white)](#)
+[![plotly](https://img.shields.io/badge/plotly-%23026E38.svg?&style=for-the-badge&logo=plotly&logoColor=white)](#)
 [![Pandas](https://img.shields.io/badge/pandas-E70488?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 
 [![Flask](https://img.shields.io/badge/Flask-crimson?style=for-the-badge&logo=flask&logoColor=white)](#) 
