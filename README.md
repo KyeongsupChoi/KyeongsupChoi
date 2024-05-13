@@ -20,8 +20,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![Pytorch](https://img.shields.io/badge/Pytorch-DB3C18?style=for-the-badge&logo=pytorch&logoColor=white)](#) 
 
-[![Pandas](https://img.shields.io/badge/pandas-E70488?&style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![plotly](https://img.shields.io/badge/plotly-%23026E38.svg?&style=for-the-badge&logo=plotly&logoColor=white)](#)
+[![Pandas](https://img.shields.io/badge/pandas-23026E38?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![streamlit](https://img.shields.io/badge/streamlit-f63366.svg?&style=for-the-badge&logo=streamlit&logoColor=white)](#)
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
