@@ -18,16 +18,16 @@
 
 ### Main Libraries and Frameworks
 [![TF](https://img.shields.io/badge/TensorFlow-FFA800?style=for-the-badge&logo=tensorflow&logoColor=white)](#) 
-[![scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
+[![Scikit-learn](https://img.shields.io/badge/scikit−learn-29ABE2.svg?&style=for-the-badge&logo=scikitlearn&logoColor=white)](#)
 [![Pytorch](https://img.shields.io/badge/Pytorch-DB3C18?style=for-the-badge&logo=pytorch&logoColor=white)](#) 
 
 [![Pandas](https://img.shields.io/badge/pandas-23026E38?&style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![streamlit](https://img.shields.io/badge/streamlit-f63366.svg?&style=for-the-badge&logo=streamlit&logoColor=white)](#)
-[![cookiecutter](https://img.shields.io/badge/cookiecutter-DCAF18?&style=for-the-badge&logo=cookiecutter&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/streamlit-f63366.svg?&style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![Cookiecutter](https://img.shields.io/badge/cookiecutter-DCAF18?&style=for-the-badge&logo=cookiecutter&logoColor=white)](#)
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-734f96?style=for-the-badge&logo=flask&logoColor=white)](#) 
-[![fastapi](https://img.shields.io/badge/fastapi-05998b.svg?&style=for-the-badge&logo=fastapi&logoColor=white)](#)   
+[![Fastapi](https://img.shields.io/badge/fastapi-05998b.svg?&style=for-the-badge&logo=fastapi&logoColor=white)](#)   
 
 
 
