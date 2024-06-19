@@ -1,4 +1,4 @@
-<h1 align="center">👋Hey, I'm K!</h1>
+<h1 align="center">👋Hey, I'm K</h1>
 <h3 align="center">Data Scientist living in South Korea</h3>
 
 
