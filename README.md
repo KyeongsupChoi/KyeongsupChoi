@@ -22,7 +22,7 @@
 
 [![Pandas](https://img.shields.io/badge/pandas-23026E38?&style=for-the-badge&logo=pandas&logoColor=white)](#)
 [![Streamlit](https://img.shields.io/badge/streamlit-f63366.svg?&style=for-the-badge&logo=streamlit&logoColor=white)](#)
-[![Cookiecutter](https://img.shields.io/badge/cookiecutter-DCAF18?&style=for-the-badge&logo=cookiecutter&logoColor=white)](#)
+<!--[![Cookiecutter](https://img.shields.io/badge/cookiecutter-DCAF18?&style=for-the-badge&logo=cookiecutter&logoColor=white)](#)-->
 
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-734f96?style=for-the-badge&logo=flask&logoColor=white)](#) 
