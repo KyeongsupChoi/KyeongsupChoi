@@ -1,5 +1,5 @@
 <h1 align="center">👋Hey, I'm K!</h1>
-<h3 align="center">Backend Developer living in South Korea</h3>
+<h3 align="center">2 YOE Python Developer living in South Korea</h3>
 
 
 [![](https://img.shields.io/badge/개발자_포트폴리오-61A234?style=for-the-badge&logo=codementor&logoColor=white)](https://kyeongsupchoi.github.io)
