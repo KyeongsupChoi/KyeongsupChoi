@@ -1,4 +1,4 @@
-<h1 align="center">👋Hey, I'm K!</h1>
+<h1 align="center">👋Hey, I'm K</h1>
 <h3 align="center">2 YOE Python Developer living in South Korea</h3>
 
 
