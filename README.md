@@ -1,5 +1,5 @@
 <h1 align="center">👋Hey, I'm K</h1>
-<h3 align="center">A Python Developer living in South Korea, Changwon</h3>
+<h3 align="center">A ML/AI Engineer living in South Korea, Seoul</h3>
 
 ### Contact me: 
 
