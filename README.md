@@ -19,8 +19,6 @@ I am an **ML/AI Engineer** with 4 years of experience building "working AI" that
 
 ---
 
-### 🛠 Technical Toolbox
-
 #### Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)](#)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)](#)
