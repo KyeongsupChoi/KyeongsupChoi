@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Kyeongsup (K) Choi</h1>
+<h1 align="center">👋 Hey, I'm K Choi</h1>
 <h3 align="center">ML/AI Engineer | 3 YOE | Seoul, South Korea</h3>
 
 <p align="center">
