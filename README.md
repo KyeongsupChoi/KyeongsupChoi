@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Kyeongsup (K) Choi</h1>
-<h3 align="center">ML/AI Engineer | 4 Years Experience | Seoul, South Korea</h3>
+<h3 align="center">ML/AI Engineer | 3 YOE | Seoul, South Korea</h3>
 
 <p align="center">
   <a href="https://kyeongsupchoi.github.io"><img src="https://img.shields.io/badge/개발자_포트폴리오-61A234?style=for-the-badge&logo=codementor&logoColor=white" alt="Portfolio"></a>
