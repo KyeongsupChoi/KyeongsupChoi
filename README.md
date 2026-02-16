@@ -31,4 +31,3 @@
 
 ### Stats
 ![kyeongsup's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyeongsupchoi&theme=tokyonight&hide_border=false)
-![kyeongsup's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeongsupchoi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
