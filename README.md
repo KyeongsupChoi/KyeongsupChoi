@@ -10,7 +10,7 @@
 ---
 
 ### Professional Profile
-I am an **ML/AI Engineer** with 4 years of experience building "working AI" that solves real business problems. I specialize in bridging the gap between raw data and production-ready intelligence.
+I am an **ML/AI Engineer** with 3 years of experience building AIs that solves real business problems. I specialize in bridging the gap between raw data and production-ready intelligence.
 
 * **Current Focus:** Architecting End-to-End ML pipelines and researching **Transformer-based** models for manufacturing at **Emoldino**.
 * **Scale:** Proven track record handling **50M+ rows** of data using **Snowflake** and **SQL**.
