@@ -40,8 +40,3 @@ I am an **ML/AI Engineer** with 3 years of experience building AIs that solves r
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-
----
-
-### 📊 GitHub Stats
-![kyeongsup's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyeongsupchoi&theme=tokyonight&hide_border=false)
